@@ -40,25 +40,31 @@ I am a passionate developer from India specializing in building high-end, intera
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohit-840&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-840&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohit-840&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-840&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-840&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-840&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/rohit-kumar-840" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rohitsahpkr@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/rohit_kumar840" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-kumar-840" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rohitsahpkr@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0055" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/rohit_kumar840" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E024CE" alt="Instagram" />
+  </a>
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-840&theme=tokyonight&margin-w=15" alt="rohit-840" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit-840&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" /> 
 </p>
