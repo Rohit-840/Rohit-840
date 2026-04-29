@@ -54,7 +54,7 @@ I am a passionate developer from India specializing in building high-end, intera
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/rohit-kumar-840" target="blank">
+  <a href="https://www.linkedin.com/in/rohit-kumar-840mh/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
   </a>
   <a href="mailto:rohitsahpkr@gmail.com" target="blank">
