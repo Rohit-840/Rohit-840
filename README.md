@@ -10,7 +10,7 @@
 ### 💫 About Me
 I am a passionate developer from India specializing in building high-end, interactive web applications. I have a deep interest in **3D Web Development (Three.js)**, **FinTech**, and creating seamless **User Experiences**.
 
-- 🔭 **Current Project:** Working on a high-performance [trading website](https://github.com/Rohit-840/JBCweb)
+- 🔭 **Current Project:** Working on a high-performance [trading website](http://38.255.35.152:5173/)
 - 🌱 **Learning:** Deep diving into **Python** for Data Science & Automation
 - 💬 **Ask me about:** React, Node.js, MongoDB, Three.js, and Android Development
 - ⚡ **Fun fact:** I treat coding like an art form—precision and logic are my best friends.
